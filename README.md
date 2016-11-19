@@ -5,6 +5,7 @@
 * each relay change is published to MQTT broker  
 * you can change the relay state using button in the Sonoff switch. It changes it from Off to On or from On to Off
 * while booting, switch  can set default value of the relay by retrieving default from MQTT broker - you have to implement it by yourself in your MQTT Broker and connected service. A sample of it you can fine on my blog. It's in Polish ;-), link below
+* by pressing button for 8sec switch will be rebooted
 
 ### Requirements:
 
