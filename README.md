@@ -50,3 +50,4 @@ Following libraries are required:
 * Ticker.h
 * Streaming.h
 
+You can find more at [my site](http://smart-house.adrian.czabanowski.com/sonoffmqttopenhabcarduino/) , in polish.
