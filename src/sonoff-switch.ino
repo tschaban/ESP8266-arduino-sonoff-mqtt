@@ -1,3 +1,7 @@
+/* Application
+  LICENCE: http://opensource.org/licenses/MIT
+  2016-11-18 tschaban https://github.com/tschaban */
+
 #include <PubSubClient.h>
 #include <ESP8266WiFi.h>
 #include "Streaming.h"
